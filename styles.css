@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+}
